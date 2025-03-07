@@ -1,0 +1,19 @@
+header {
+    background-color:rgb(189, 189, 189);
+    width: 100%;
+    height: 64px;
+    padding: 0 24px;
+
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+header .logo {
+    height: 30px;
+}
+
+
+header .menu{
+    width: 20px;
+    height: 20px;
+}
