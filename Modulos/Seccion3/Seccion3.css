@@ -1,0 +1,68 @@
+.seccion3{
+    padding: 48px 24px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+.texto3{
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #486284; 
+}
+.titulo3{
+    font-size: 24px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #8CA2C0;
+}
+.descripcion3{
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #8CA2C0;
+}
+.btn5{
+    width: 100%;
+    border: 1px solid gray;
+    background-color: #486284;
+    border-radius: 30px;
+    padding: 20px;
+
+    font-size: 16px;
+    color:rgb(247, 247, 247);
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 15px;
+    margin-top: 20px;
+}
+.btn6{
+    width: 100%;
+    border: 1px solid gray;
+    border-radius: 30px;
+    padding: 20px;
+
+    font-size: 16px;
+    color:rgb(43,40,40);
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 15px;
+    margin-top: 20px;
+}
+.btn7{
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #8CA2C0;
+}
+.Goo2{
+    height: 30px;
+}
+.You2{
+    height: 25px;
+}
+.Face2{
+    height: 25px;
+}
